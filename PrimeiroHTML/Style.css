@@ -13,3 +13,8 @@ body{
 .DestaqueTitulo{
     color:red;
 }
+
+.apresentacao{
+    display: flex;
+    align-items: center;
+}
